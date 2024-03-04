@@ -8,10 +8,10 @@ Welcome to the Machine Learning Models repository! Here you will find implementa
 This model predicts the prices of houses based on various features such as area, number of bedrooms, number of bathrooms, etc. It utilizes a regression algorithm to predict continuous values.
 
 ### Dataset
-The dataset used for training and testing this model can be found in the `house_price_dataset.csv` file.
+The dataset used for training and testing this model can be found in the `housing.csv` file.
 
 ### Implementation
-The House Price Prediction model is implemented in the `house_price_prediction.ipynb` Jupyter Notebook. It includes data preprocessing, model training, evaluation, and prediction.
+The House Price Prediction model is implemented in the `house_price_pred.ipynb` Jupyter Notebook. It includes data preprocessing, model training, evaluation, and prediction.
 
 ## Iris Classification Model
 
@@ -19,7 +19,7 @@ The House Price Prediction model is implemented in the `house_price_prediction.i
 This model classifies iris flowers into three species (setosa, versicolor, and virginica) based on the length and width of sepals and petals. It utilizes a classification algorithm to assign classes to input data.
 
 ### Dataset
-The dataset used for training and testing this model can be found in the `iris_dataset.csv` file.
+The dataset used for training and testing this model can be found in the `IRIS.csv` file.
 
 ### Implementation
 The Iris Classification model is implemented in the `iris_classification.ipynb` Jupyter Notebook. It includes data preprocessing, model training, evaluation, and prediction.
